@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.csproj.AssemblyReference.cache
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\bin\Debug\netcoreapp3.1\Class02Homework1.exe
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\bin\Debug\netcoreapp3.1\Class02Homework1.deps.json
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\bin\Debug\netcoreapp3.1\Class02Homework1.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\bin\Debug\netcoreapp3.1\Class02Homework1.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\bin\Debug\netcoreapp3.1\Class02Homework1.dll
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\bin\Debug\netcoreapp3.1\Class02Homework1.pdb
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.dll
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.pdb
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework1\obj\Debug\netcoreapp3.1\Class02Homework1.genruntimeconfig.cache

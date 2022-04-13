@@ -1,0 +1,14 @@
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\bin\Debug\netcoreapp3.1\Class02Homework2.exe
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\bin\Debug\netcoreapp3.1\Class02Homework2.deps.json
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\bin\Debug\netcoreapp3.1\Class02Homework2.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\bin\Debug\netcoreapp3.1\Class02Homework2.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\bin\Debug\netcoreapp3.1\Class02Homework2.dll
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\bin\Debug\netcoreapp3.1\Class02Homework2.pdb
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.csproj.AssemblyReference.cache
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.dll
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.pdb
+C:\Users\Kristijan\Desktop\Seavus\C#\Homeworks\Class02\Class02Homework2\Class02Homework2\obj\Debug\netcoreapp3.1\Class02Homework2.genruntimeconfig.cache

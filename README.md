@@ -1,1 +1,0 @@
-# seavus-course
