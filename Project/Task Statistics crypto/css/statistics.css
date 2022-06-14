@@ -4,7 +4,7 @@ body {
 }
 
 #resultTable {
-    margin-top: 40px;
+    margin-top: 50px;
     margin-bottom: 40px;
     margin-left: 10px;
     border-radius: 15px 50px 30px 5px;
@@ -12,23 +12,167 @@ body {
     border-color: white;
     border-spacing: 1px;
     text-align: center;
+    padding: 5px;
+    font: 24px/36px sans-serif;
     width: 1350px;
 }
 
-th {
-    color: darkgray;
+#resultTable tbody{
+    height:600px;
+    display:block;
+    border: none;
+    padding: 5px;
+    width: 1300px;
+        overflow: scroll;
+}      
+    ::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+}
+    ::-webkit-scrollbar-track {
+        border: 1px solid gray;
+        border-radius: 10px;
+}
+    ::-webkit-scrollbar-thumb {
+        background: gray;
+        border-radius: 10px;
+}
+     ::-webkit-scrollbar-thumb:hover {
+        background: darkgray;
+}
+
+
+
+#resultTable th {
+    color: gray;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 1px 1px 1px 1px;
     
     
 }
 
-td {
+#resultTable td {
     color: white;
     text-align: center;
-    font-size:20px;
+    font-size:14px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 2px 2px 2px 2px;
 }
+
+#growingTable{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    border-radius: 15px 10px 12px 5px;
+    border: 2px solid;
+    border-color: white;
+    border-spacing: 1px;
+    text-align: center;
+    padding: 2px;
+    font: 24px/36px sans-serif;
+    width: 50px; 
+}
+
+#growingTable tbody{
+    height:400px;
+    display:block;
+    border: none;
+    padding: 2px;
+    width: 620px;
+    overflow: scroll;
+} 
+
+#growingTable th {
+    color: gray;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px 1px 1px 1px;  
+}
+
+#growingTable td {
+    color: white;
+    text-align: center;
+    font-size:17px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px 1px 1px 1px;
+     
+}
+
+#heading {
+    color: white;
+    margin-left: 200px;
+    margin-right: 980px;
+    margin-bottom: -20px;
+    padding: 1px 1px 1px 1px;
+    text-align: center;
+    background-color: transparent;
+}
+
+#fallingTable{
+    margin-top: -455px;
+    margin-bottom: 40px;
+    margin-left: 700px;
+    border-radius: 15px 10px 12px 5px;
+    border: 2px solid;
+    border-color: white;
+    border-spacing: 1px;
+    text-align: center;
+    padding: 2px;
+    font: 24px/36px sans-serif;
+    width: 50px; 
+}
+
+#fallingTable tbody{
+    height:400px;
+    display:block;
+    border: none;
+    padding: 2px;
+    width: 620px;
+    overflow: scroll;
+} 
+
+#fallingTable th {
+    color: gray;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px 1px 1px 1px;  
+}
+
+#fallingTable td {
+    color: white;
+    text-align: center;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px 1px 1px 1px;
+     
+}
+
+#heading2 {
+    color: white;
+    margin-left: 800px;
+    margin-right: 100px;
+    margin-top: -44px;
+    margin-bottom: -19px;
+    padding: 1px 1px 1px 1px;
+    text-align: center;
+    background-color: transparent;
+}
+
+#img1 {
+    width: 60px;
+    height: 30px;
+    margin-left: 370px;
+    margin-bottom: 8px;
+    
+}
+
+#img2{
+    width: 60px;
+    height: 30px;
+    margin-left: 1100px;
+}
+
