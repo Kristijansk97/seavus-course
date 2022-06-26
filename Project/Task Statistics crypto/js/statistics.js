@@ -9,10 +9,21 @@ $(document).ready(function () {
   })
     .then(response => response.json())
     .then(data => {
-      let coinsTable = $('#resultTable');
-      for (x of data) {
-        let row = "";
-        row = `<tr>
+      statistics(data);
+      growingCoins(data);
+      fallingCoins(data);
+    })
+    .catch(err => {
+      console.log(err);
+    });
+});
+
+//#region Statistics code
+function statistics(data) {
+  let coinsTable = $('#resultTable');
+  for (x of data) {
+    let row = "";
+    row = `<tr>
         <td>${x.name}</td>
         <td>${x.symbol}</td>
         <td><img src="${x.image} width="18" height="18"/></td>
@@ -22,50 +33,157 @@ $(document).ready(function () {
         <td>$${x.market_cap.toLocaleString()}</td>
         <td><canvas id="${x.name + "chart"}" width="250" height="36"></canvas></td>
         </tr>`
-        coinsTable.append(row);
-        const ctx = document.getElementById(x.name + "chart").getContext('2d');
-        const myChart = new Chart(ctx, {
-          type: 'line',
-          data: { datasets: [{ data: x.sparkline_in_7d.price }], labels: [...Array(x.sparkline_in_7d.price.length).keys()] },
-          options: {
-            responsive: false,
-            legend: {
-              display: false
-            },
-            elements: {
-              line: {
-                borderColor: x.price_change_percentage_24h < 0 ? '#FF1D1D' : '#2EFF1D',
-                borderWidth: 1
-              },
-              point: {
-                radius: 0
-              }
-            },
-            tooltips: {
-              enabled: false
-            },
-            scales: {
-              yAxes: [
-                {
-                  display: false
-                }
-              ],
-              xAxes: [
-                {
-                  display: false
-                }
-              ]
-            }
+    coinsTable.append(row);
+    const ctx = document.getElementById(x.name + "chart").getContext('2d');
+    const myChart = new Chart(ctx, {
+      type: 'line',
+      data: { datasets: [{ data: x.sparkline_in_7d.price }], labels: [...Array(x.sparkline_in_7d.price.length).keys()] },
+      options: {
+        responsive: false,
+        legend: {
+          display: false
+        },
+        elements: {
+          line: {
+            borderColor: x.price_change_percentage_24h < 0 ? '#FF1D1D' : '#2EFF1D',
+            borderWidth: 1
+          },
+          point: {
+            radius: 0
           }
-        });
+        },
+        tooltips: {
+          enabled: false
+        },
+        scales: {
+          yAxes: [
+            {
+              display: false
+            }
+          ],
+          xAxes: [
+            {
+              display: false
+            }
+          ]
+        }
       }
-
-    })
-    .catch(err => {
-      console.log(err);
     });
-});
+  }
+}
+//#endregion
 
+//#region Growing code
+function growingCoins(data) {
+  let coinsTable = $('#growingTable');
+  for (x of data) {
+    if (x.price_change_percentage_24h > 0) {
+      let row = "";
+      row = `<tr>
+                <td>${x.name}</td>
+                <td>${x.symbol}</td>
+                <td><img src="${x.image} width="18" height="18"/></td>
+                <td>${x.price_change_percentage_24h}%</td>
+                <td>${x.current_price}$</td>
+                <td><canvas id="${x.name + "chart"}" width="120" height="36"></canvas></td>
+                </tr>`
+      coinsTable.append(row);
+      const ctx = document.getElementById(x.name + "chart").getContext('2d');
+      const myChart = new Chart(ctx, {
+        type: 'line',
+        data: { datasets: [{ data: x.sparkline_in_7d.price }], labels: [...Array(x.sparkline_in_7d.price.length).keys()] },
+        options: {
+          responsive: false,
+          legend: {
+            display: false
+          },
+          elements: {
+            line: {
+              borderColor: '#2EFF1D',
+              borderWidth: 1
+            },
+            point: {
+              radius: 0
+            }
+          },
+          tooltips: {
+            enabled: false
+          },
+          scales: {
+            yAxes: [
+              {
+                display: false
+              }
+            ],
+            xAxes: [
+              {
+                display: false
+              }
+            ]
+          }
+        }
+      });
+    }
+  }
+}
+//#endregion
+
+//#region Falling code
+function fallingCoins(data) {
+  let coinsTable = $('#fallingTable');
+  for (x of data) {
+    if (x.price_change_percentage_24h < 0) {
+      let row = "";
+      row = `<tr>
+                <td>${x.name}</td>
+                <td>${x.symbol}</td>
+                <td><img src="${x.image} width="18" height="18"/></td>
+                <td>${x.price_change_percentage_24h}%</td>
+                <td>${x.current_price}$</td>
+                <td><canvas id="${x.name + "chart"}" width="120" height="36"></canvas></td>
+                </tr>`
+      coinsTable.append(row);
+      const ctx = document.getElementById(x.name + "chart").getContext('2d');
+      const myChart = new Chart(ctx, {
+        type: 'line',
+        data: { datasets: [{ data: x.sparkline_in_7d.price }], labels: [...Array(x.sparkline_in_7d.price.length).keys()] },
+        options: {
+          responsive: false,
+          legend: {
+            display: false
+          },
+          elements: {
+            line: {
+              borderColor: '#FF1D1D',
+              borderWidth: 1
+            },
+            point: {
+              radius: 0
+            }
+          },
+          tooltips: {
+            enabled: false
+          },
+          scales: {
+            yAxes: [
+              {
+                display: false
+              }
+            ],
+            xAxes: [
+              {
+                display: false
+              }
+            ]
+          }
+        }
+      });
+    }
+  }
+}
+//#endregion
+
+//#region Searchbar
 function myFunction() {
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("search");
@@ -84,4 +202,6 @@ function myFunction() {
     }
   }
 }
+//#endregion
+
 

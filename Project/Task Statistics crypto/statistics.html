@@ -1,35 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Statistics Page</title>
 </head>
+
 <body>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script src="./js/statistics.js"></script>
-    <script src="./js/growing.js"></script>
-    <script src="./js/falling.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
-    <link rel="stylesheet" href="./css/statistics.css">
+    <section id="statistics-page"></section>
+    <!--#region Statistics-->
     <h2 id="heading">All Growing</h2>
-    <img id="img1" src="./img/rising-arrow.jpg"/>
+    <img id="img1" src="./img/rising-arrow.jpg" />
     <h2 id="heading2">All Falling</h2>
-    <img id="img2" src="./img/falling-arrow.jpg"/>
-    <table id = "growingTable" cellpadding="1" cellspacing = "1">
+    <img id="img2" src="./img/falling-arrow.jpg" />
+    <table id="growingTable" cellpadding="1" cellspacing="1">
         <tbody>
-        <tr>
-            <th id="coinGrow">Coin</th>
-            <th id="symbolGrow">Symbol</th>
-            <th id="logoGrow">Logo</th>
-            <th id="24hStatisticsGrow">24h</th>
-            <th id="currentPriceGrow">Current Price</th>
-            <th id="7dGrow">Last 7 Days</th>
-        </tr>
+            <tr>
+                <th id="coinGrow">Coin</th>
+                <th id="symbolGrow">Symbol</th>
+                <th id="logoGrow">Logo</th>
+                <th id="24hStatisticsGrow">24h</th>
+                <th id="currentPriceGrow">Current Price</th>
+                <th id="7dGrow">Last 7 Days</th>
+            </tr>
         </tbody>
     </table>
-    
+
     <table id="fallingTable">
         <tbody>
             <tr>
@@ -42,10 +40,10 @@
             </tr>
         </tbody>
     </table>
-    
+
     <input id="search" type="text" placeholder="Search coin..." name="search">
 
-    <table id="resultTable" cellpadding = "1" cellspacing= "1">
+    <table id="resultTable" cellpadding="1" cellspacing="1">
         <tbody div="scroll">
             <tr>
                 <th id="coin">Coin</th>
@@ -57,8 +55,15 @@
                 <th id="cap">Market Cap</th>
                 <th id="7d">Last 7 Days</th>
             </tr>
-            </tbody>
+        </tbody>
     </table>
-
+    <!--#endregion-->
+    </section>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./js/statistics.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <link rel="stylesheet" href="./css/statistics.css">
 </body>
+
 </html>
