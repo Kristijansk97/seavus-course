@@ -1,0 +1,164 @@
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.staticwebassets.runtime.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.exe
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.deps.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.runtimeconfig.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.csproj.AssemblyReference.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.AssemblyInfoInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.AssemblyInfo.cs
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.csproj.CoreCompileInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.RazorAssemblyInfo.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.RazorAssemblyInfo.cs
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\scopedcss\bundle\BurgerWebApp.styles.css
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\scopedcss\projectbundle\BurgerWebApp.bundle.scp.css
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\refint\BurgerWebApp.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.genruntimeconfig.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\ref\BurgerWebApp.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\ViewModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.csproj.CopyComplete
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DataAccess.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DomainModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Mappers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Mappers.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Business.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Business.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.staticwebassets.runtime.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.exe
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.deps.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.runtimeconfig.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\BurgerWebApp.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Business.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Mappers.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\ViewModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Business.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\Mappers.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.RazorAssemblyInfo.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.RazorAssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\scopedcss\bundle\BurgerWebApp.styles.css
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\scopedcss\projectbundle\BurgerWebApp.bundle.scp.css
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.csproj.CopyComplete
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\refint\BurgerWebApp.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\BurgerWebApp.genruntimeconfig.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\BurgerWebApp\obj\Debug\net6.0\ref\BurgerWebApp.dll

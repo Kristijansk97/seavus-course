@@ -1,0 +1,24 @@
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\bin\Debug\net6.0\DomainModels.deps.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\bin\Debug\net6.0\DomainModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.csproj.AssemblyReference.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.AssemblyInfoInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.AssemblyInfo.cs
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\refint\DomainModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\DomainModels\obj\Debug\net6.0\ref\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\bin\Debug\net6.0\DomainModels.deps.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\bin\Debug\net6.0\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\refint\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\DomainModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\DomainModels\obj\Debug\net6.0\ref\DomainModels.dll

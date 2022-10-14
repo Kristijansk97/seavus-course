@@ -1,0 +1,12 @@
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Helpers\obj\Debug\net6.0\ref\Helpers.dll

@@ -1,0 +1,11 @@
+﻿@model BurgerViewModel
+
+<div class="d-flex justify-content-center">
+    <div>
+        <h3 class="mb-3">@Model.Name</h3>
+        <img src="@Model.ImageUrl" alt="@Model.Name" class="rounded float-left col-4 mb-3" style="width: 600px; height: 600px;" />
+        <span class="col-6">
+            <h6>Ingredients: @Model.Description</h6>
+        </span>
+    </div>
+</div>

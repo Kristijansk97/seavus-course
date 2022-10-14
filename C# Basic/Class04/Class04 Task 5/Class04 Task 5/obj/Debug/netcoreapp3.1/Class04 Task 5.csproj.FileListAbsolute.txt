@@ -1,0 +1,14 @@
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\bin\Debug\netcoreapp3.1\Class04 Task 5.exe
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\bin\Debug\netcoreapp3.1\Class04 Task 5.deps.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\bin\Debug\netcoreapp3.1\Class04 Task 5.runtimeconfig.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\bin\Debug\netcoreapp3.1\Class04 Task 5.runtimeconfig.dev.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\bin\Debug\netcoreapp3.1\Class04 Task 5.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\bin\Debug\netcoreapp3.1\Class04 Task 5.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\C# Basic\Class04\Class04 Task 5\Class04 Task 5\obj\Debug\netcoreapp3.1\Class04 Task 5.genruntimeconfig.cache

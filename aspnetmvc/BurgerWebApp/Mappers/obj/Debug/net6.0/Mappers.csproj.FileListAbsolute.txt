@@ -1,0 +1,34 @@
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\Mappers.deps.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\Mappers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\Mappers.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\DomainModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\ViewModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.csproj.AssemblyReference.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.AssemblyInfoInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.AssemblyInfo.cs
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.csproj.CopyComplete
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\refint\Mappers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Mappers\obj\Debug\net6.0\ref\Mappers.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\Mappers.deps.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\Mappers.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\Mappers.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\ViewModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.csproj.CopyComplete
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\refint\Mappers.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\Mappers.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Mappers\obj\Debug\net6.0\ref\Mappers.dll

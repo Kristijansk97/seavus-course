@@ -1,0 +1,31 @@
+﻿@model List<BurgerViewModel>
+
+<a asp-action="CreateEditBurger" class="btn btn-primary mb-3">Add new</a>
+<div class="border rounded shadow">
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <th scope="row">@(i + 1)</th>
+                    <td>@Model[i].Name</td>
+                    <td>@Model[i].Description</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@Model[i].Id" class="btn btn-primary">Details</a>
+                        <a asp-action="CreateEditBurger" asp-controller="Burger" asp-route-id="@Model[i].Id" class="btn btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-controller="Burger" asp-route-id="@Model[i].Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

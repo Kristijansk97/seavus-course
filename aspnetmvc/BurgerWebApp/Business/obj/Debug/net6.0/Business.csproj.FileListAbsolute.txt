@@ -1,0 +1,42 @@
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\DomainModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\Mappers.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\ViewModels.dll
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\Mappers.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\cveta\OneDrive\Documents\Projects\SEAVUS\Predmeti\07-ASP.NET MVC\My Projects\BurgerWebApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\DomainModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\Mappers.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\ViewModels.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\Mappers.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\ViewModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Kiko\Desktop\Seavus\ZADOCNETI DOMASHNI\aspnetmvc\BurgerWebApp\Business\obj\Debug\net6.0\ref\Business.dll
